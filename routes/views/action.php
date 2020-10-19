@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <head>
   <title>My Book App</title>
+  <link rel="stylesheet" href = "style.css">
 </head>
 <body>
 <h1>あなたの読んだ本</h1>
